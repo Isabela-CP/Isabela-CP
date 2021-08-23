@@ -7,7 +7,7 @@
 
 <div align="center">
 <h3>
-📚 𝐼’𝓂 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝓈𝓉𝓊𝒹𝓎𝒾𝓃𝑔 𝒶𝓉 𝒞𝑜𝓉𝓊𝒸𝒶 <br/> <br/>
+📚 𝓘𝓽'𝓼 𝓪 𝓷𝓮𝔀 𝓭𝓪𝔀𝓷, 𝓲𝓽'𝓼 𝓪 𝓷𝓮𝔀 𝓭𝓪𝔂, 𝓲𝓽'𝓼 𝓪 𝓷𝓮𝔀 𝓵𝓲𝓯𝓮 𝓯𝓸𝓻 𝓶𝓮 𝓪𝓷𝓭 𝓘'𝓶 𝓯𝓮𝓮𝓵𝓲𝓷𝓰 𝓰𝓸𝓸𝓭. <br/> <br/>
 🌱 𝐿𝑒𝒶𝓇𝓃𝒾𝓃𝑔
    <img align="center" alt="gi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="gi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
