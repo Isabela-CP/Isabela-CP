@@ -7,7 +7,7 @@
 
 <div align="center">
 <h3>
-📚 𝓘𝓽'𝓼 𝓪 𝓷𝓮𝔀 𝓭𝓪𝔀𝓷, 𝓲𝓽'𝓼 𝓪 𝓷𝓮𝔀 𝓭𝓪𝔂, 𝓲𝓽'𝓼 𝓪 𝓷𝓮𝔀 𝓵𝓲𝓯𝓮 𝓯𝓸𝓻 𝓶𝓮 𝓪𝓷𝓭 𝓘'𝓶 𝓯𝓮𝓮𝓵𝓲𝓷𝓰 𝓰𝓸𝓸𝓭. <br/> <br/>
+📚 𝒯𝑜 𝓉𝒽𝑒 𝓈𝓉𝒶𝓇𝓈 𝓌𝒽𝑜 𝓁𝒾𝓈𝓉𝑒𝓃 𝒶𝓃𝒹 𝓉𝒽𝑒 𝒹𝓇𝑒𝒶𝓂𝓈 𝓉𝒽𝒶𝓉 𝒶𝓇𝑒 𝒶𝓃𝓈𝓌𝑒𝓇𝑒𝒹 🌠<br/> <br/>
 🌱 𝐿𝑒𝒶𝓇𝓃𝒾𝓃𝑔
    <img align="center" alt="gi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="gi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -43,7 +43,7 @@
  [![Github Badge](https://img.shields.io/badge/-@Isabela-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Isabela-CP)](https://github.com/Isabela-CP)
  [![Github Badge](https://img.shields.io/badge/-@Milena-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/milenafs)](https://github.com/milenafs)
 
- 𝓜𝓮: 🌈🎶🌊
+ 🌈🎶🌊
  </div> </div>
 
 
