@@ -32,3 +32,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabela-CP&layout=compact&langs_count=7&theme=radical"/>
 </br>
 </div>
+
+<!-- Agradecimentos: https://github.com/gi-m-zambanini 💕
