@@ -1,7 +1,7 @@
 <h1  align="center"> Hii, I'm Isabela 👋</h1>
 
 <p align="center">
-<img src = "https://c.tenor.com/mIMWFGbn8hQAAAAC/computer-says.gif"/>
+<img src = "https://c.tenor.com/1uklp9zqO3oAAAAC/computer-typing.gif"/>
 </p> 
 
 
