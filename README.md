@@ -33,4 +33,4 @@
 </br>
 </div>
 
-<!-- Agradecimentos: https://github.com/gi-m-zambanini 💕
+Agradecimentos: https://github.com/gi-m-zambanini 💕
