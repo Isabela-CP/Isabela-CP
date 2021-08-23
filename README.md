@@ -32,6 +32,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabela-CP&layout=compact&langs_count=7&theme=radical"/>
 </br>
 </br></br></br>
-Agradecimentos: https://github.com/gi-m-zambanini 💕
+
+Agradecimentos: [![Github Badge](https://img.shields.io/badge/-@GiZambanini-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/gi-m-zambanini)](https://github.com/gi-m-zambanini) 💕
 </div>
 
