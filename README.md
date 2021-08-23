@@ -42,7 +42,8 @@
  [![Github Badge](https://img.shields.io/badge/-@GiZambanini-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/gi-m-zambanini)](https://github.com/gi-m-zambanini)
  [![Github Badge](https://img.shields.io/badge/-@Isabela-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Isabela-CP)](https://github.com/Isabela-CP)
  [![Github Badge](https://img.shields.io/badge/-@Milena-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/milenafs)](https://github.com/milenafs)
- </div>
- </div>
+
+ 𝓜𝓮: 🌈🎶🌊
+ </div> </div>
 
 
