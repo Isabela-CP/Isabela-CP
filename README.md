@@ -31,15 +31,22 @@
   <br/> <br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabela-CP&layout=compact&langs_count=7&theme=radical"/>
 </br>
-</br></br>
 
-𝒜𝑔𝓇𝒶𝒹𝑒𝒸𝒾𝓂𝑒𝓃𝓉𝑜𝓈: [![Github Badge](https://img.shields.io/badge/-@GiZambanini-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/gi-m-zambanini)](https://github.com/gi-m-zambanini) 💕
-</br></br>
-<h3> ✨ 𝒯𝑒𝒶𝓂  ✨</h3>
- </div>
- <div align="center">
+<h4>𝒜𝑔𝓇𝒶𝒹𝑒𝒸𝒾𝓂𝑒𝓃𝓉𝑜𝓈</h4>
+</div>
 
- [![Github Badge](https://img.shields.io/badge/-@GiZambanini-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/gi-m-zambanini)](https://github.com/gi-m-zambanini)
+<div align="center">
+   
+[![Github Badge](https://img.shields.io/badge/-@GiZambanini-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/gizambanini)](https://github.com/gizambanini) 💕
+  
+ </br>
+   
+ <h3 align="center"> ✨ 𝒯𝑒𝒶𝓂  ✨</h3>
+   
+</div>
+<div align="center">
+   
+ [![Github Badge](https://img.shields.io/badge/-@GiZambanini-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/gizambanini)](https://github.com/gizambanini)
  [![Github Badge](https://img.shields.io/badge/-@Isabela-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Isabela-CP)](https://github.com/Isabela-CP)
  [![Github Badge](https://img.shields.io/badge/-@Milena-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/milenafs)](https://github.com/milenafs)
 
