@@ -35,15 +35,7 @@
 
 𝒜𝑔𝓇𝒶𝒹𝑒𝒸𝒾𝓂𝑒𝓃𝓉𝑜𝓈: [![Github Badge](https://img.shields.io/badge/-@GiZambanini-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/gizambanini)](https://github.com/gizambanini) 💕
 </br></br>
-<h3> ✨ 𝒯𝑒𝒶𝓂  ✨</h3>
- </div>
- <div align="center">
 
- [![Github Badge](https://img.shields.io/badge/-@GiZambanini-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/gizambanini)](https://github.com/gizambanini)
- [![Github Badge](https://img.shields.io/badge/-@Isabela-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Isabela-CP)](https://github.com/Isabela-CP)
- [![Github Badge](https://img.shields.io/badge/-@Milena-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/milenafs)](https://github.com/milenafs)
-
- 🌈🎶🌊
  </div> </div>
 
 
