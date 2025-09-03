@@ -7,7 +7,7 @@
 
 <div align="center">
 <h3>
-📚 𝒯𝑜 𝓉𝒽𝑒 𝓈𝓉𝒶𝓇𝓈 𝓌𝒽𝑜 𝓁𝒾𝓈𝓉𝑒𝓃 𝒶𝓃𝒹 𝓉𝒽𝑒 𝒹𝓇𝑒𝒶𝓂𝓈 𝓉𝒽𝒶𝓉 𝒶𝓇𝑒 𝒶𝓃𝓈𝓌𝑒𝓇𝑒𝒹 🌠<br/> <br/>
+ <br/>
 🌱 𝐿𝑒𝒶𝓇𝓃𝒾𝓃𝑔
    <img align="center" alt="gi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="gi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -26,9 +26,6 @@
  </div>
 
 <div align="center">
-  <a href="https://github.com/Isabela-CP">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isabela-CP&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <br/> <br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabela-CP&layout=compact&langs_count=7&theme=radical"/>
 </br>
 </br></br>
