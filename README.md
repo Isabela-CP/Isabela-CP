@@ -34,7 +34,6 @@ Sou estudante na **USP em São Carlos** e possuo uma base sólida de 7 anos de e
 
 ### 💻 Conecte-se comigo:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelacpf/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Isabela-CP)
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabela.clementino.pon@usp.br)
 
 </div>
