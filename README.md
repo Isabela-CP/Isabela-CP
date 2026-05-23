@@ -2,7 +2,7 @@
   
 # 𝐻𝒾, 𝐼'𝓂 𝐼𝓈𝒶𝒷𝑒𝓁𝒶! 👋
 
-<img src="https://c.tenor.com/1uklp9zqO3oAAAAC/computer-typing.gif" width="500" />
+
 
 </div>
 
